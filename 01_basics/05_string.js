@@ -15,10 +15,12 @@ const newString = myName.substring(0,5) //we cant give negative
 
 const anotherString = myName.slice(-7,4)
 // console.log(anotherString);
-dynamically
+
 const trimString ="     Hima        "
-console.log(trimString);
-console.log(trimString.trim());
+// console.log(trimString);
+// console.log(trimString.trim());
 
 const url = "https://himanshukumar.com/frontend/javascript%61HTML"
 // console.log(url.replace('%61','-'))
+// console.log(url.includes('himanshukumar'))
+console.log(name.split('-'))
